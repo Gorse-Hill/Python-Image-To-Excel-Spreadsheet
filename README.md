@@ -11,3 +11,5 @@ The script uses openpyxl to create and edit excel spreadsheets and PIL to load t
 
 All in all it was rather simple to write thanks to these two libraries :-) 
 It's a fun little script and I hope you enjoy using it!
+
+
